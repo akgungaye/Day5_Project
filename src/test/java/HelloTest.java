@@ -8,5 +8,7 @@ public class HelloTest {
         //hello branch
         //add one more line on your local and commit
         //added new line in local committed but not pushed to remote
+        //added new changes in remote committed but not pulled.
+    }
     }
 }

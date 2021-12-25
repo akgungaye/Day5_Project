@@ -3,5 +3,6 @@ public class HelloTest {
         System.out.println("hello");
         //add some changes
         //first change on feature 1
+        //second changes on feature1
     }
 }

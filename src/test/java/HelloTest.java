@@ -6,5 +6,6 @@ public class HelloTest {
         //second changes on feature1
         //third changes on feature1
         //hello branch
+        //make some changes
     }
 }

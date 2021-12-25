@@ -7,5 +7,6 @@ public class HelloTest {
         //third changes on feature1
         //hello branch
         //add one more line on your local and commit
+        //added new line in local committed but not pushed to remote
     }
 }
